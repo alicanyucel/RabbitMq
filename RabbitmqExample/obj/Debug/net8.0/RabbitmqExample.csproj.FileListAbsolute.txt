@@ -1,0 +1,17 @@
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\bin\Debug\net8.0\RabbitmqExample.exe
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\bin\Debug\net8.0\RabbitmqExample.deps.json
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\bin\Debug\net8.0\RabbitmqExample.runtimeconfig.json
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\bin\Debug\net8.0\RabbitmqExample.dll
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\bin\Debug\net8.0\RabbitmqExample.pdb
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.csproj.AssemblyReference.cache
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.AssemblyInfoInputs.cache
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.AssemblyInfo.cs
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.csproj.CopyComplete
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.dll
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\refint\RabbitmqExample.dll
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.pdb
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\RabbitmqExample.genruntimeconfig.cache
+C:\Users\Ali Can\source\repos\RabbitmqExample\RabbitmqExample\obj\Debug\net8.0\ref\RabbitmqExample.dll
